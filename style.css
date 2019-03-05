@@ -20,9 +20,9 @@ table, th, td {
 	padding: 20px;
 	text-align: center;
 	color: yellow;
-	borfer:black; }
+	border:black; }
 p {
-   	font-style:"Times New Roman";
+   	font-style: normal;
    	color: yellow;
    	text-align: center;
 }
