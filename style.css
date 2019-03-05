@@ -8,18 +8,18 @@ h1 {
   	color: white;
   	text-align: center;
 }
-img{
+img {
 	width:13%
     	height:13%
 }
-p, caption{
+p, caption {
   	font-family: verdana;
   	font-size: 20px;
 }
-table,th,td{
+table,th,td {
 	padding: 20px
 }
-p{
+p {
    	font-style:"Times New Roman"
    	color: yellow;
    	text-align: center
